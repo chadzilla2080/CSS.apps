@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c0d73fb-4576-4a0e-8dbc-40f6587b17cf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css-relative-positioning.html" />
-    </list>
+    <list default="true" id="0c0d73fb-4576-4a0e-8dbc-40f6587b17cf" name="Default" comment="" />
     <ignored path="CSS.apps.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -24,11 +22,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="css-relative-positioning.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="css-relative-positioning.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css-relative-positioning.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.4344704">
+            <state vertical-scroll-proportion="-30.73077">
               <caret line="47" column="7" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="css-absolute-positioning.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css-absolute-positioning.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-20.115385">
+              <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="css-absolute-positioning-final.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css-absolute-positioning-final.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="2.0448833">
+              <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -50,6 +68,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css-relative-positioning.html" />
+        <option value="$PROJECT_DIR$/css-absolute-positioning.html" />
+        <option value="$PROJECT_DIR$/css-absolute-positioning-final.html" />
       </list>
     </option>
   </component>
@@ -188,8 +208,24 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/css-relative-positioning.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.4344704">
+        <state vertical-scroll-proportion="-30.73077">
           <caret line="47" column="7" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css-absolute-positioning.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.115385">
+          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css-absolute-positioning-final.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.0448833">
+          <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
           <folding />
         </state>
       </provider>
